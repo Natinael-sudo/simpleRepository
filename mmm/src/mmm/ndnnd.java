@@ -1,6 +1,6 @@
 package mmm;
 
 public class ndnnd {
-	gggggggggggggggggg
+	system.out println("gggggggggggggggggg");
 
 }
